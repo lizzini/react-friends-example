@@ -6,5 +6,7 @@ The UI allows the user to add new 'friends'. Upon clicking the 'add friend' btn,
 
 
 Running:
+
 npm install
+
 python -m SimpleHTTPServer
